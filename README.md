@@ -44,8 +44,8 @@ This repository is a part of my Solidity learning journey using Foundry.
 
 ### **Quickstart**
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Ali757bey/foundry-fund-me.git
+cd foundry-fund-me
 make
 ```
 
